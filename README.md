@@ -1,5 +1,5 @@
 
-Android DataLayer Sample
+Android DataLayer Sample with a WearableListenerService
 ===================================
 
 This sample demonstrates how to work with a WearableListenerService,
