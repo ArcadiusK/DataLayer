@@ -43,7 +43,7 @@ public class DataLayerListenerService extends WearableListenerService {
     private static final String DATA_ITEM_RECEIVED_PATH = "/data-item-received";
     public static final String COUNT_PATH = "/count";
     public static final String IMAGE_PATH = "images/image";
-    public static final String IMAGE_KEY = "photo";
+    public static final String IMAGE_KEY = "images/photo";
     GoogleApiClient mGoogleApiClient;
 
     @Override
