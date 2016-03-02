@@ -86,7 +86,7 @@ public class MainActivity extends Activity implements DataApi.DataListener,
     private static final String START_ACTIVITY_PATH = "/start-activity";
     private static final String COUNT_PATH = "/count";
     private static final String IMAGE_PATH = "images/image";
-    private static final String IMAGE_KEY = "photo";
+    private static final String IMAGE_KEY = "images/photo";
     private static final String COUNT_KEY = "count";
 
     private GoogleApiClient mGoogleApiClient;
