@@ -106,7 +106,7 @@ public class MainActivity extends Activity implements DataApi.DataListener,
     private ScheduledExecutorService mGeneratorExecutor;
     private ScheduledFuture<?> mDataItemGeneratorFuture;
 
-    static final int REQUEST_IMAGE_CAPTURE = 1;
+    static final int REQUEST_IMAGE_CAPTURE = 3;
 
     @Override
     public void onCreate(Bundle b) {
