@@ -18,5 +18,6 @@
     <string-array name="android_wear_capabilities" translatable="false">
         <!-- declaring the provided capabilities -->
         <item>capability_1</item>
+        <item>capability_extra</item>
     </string-array>
 </resources>
