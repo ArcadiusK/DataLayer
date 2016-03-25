@@ -16,4 +16,5 @@
 
 <resources>
     <dimen name="dots_spacing">15dp</dimen>
+    <dimen name="lines_spacing">25dp</dimen>
 </resources>
