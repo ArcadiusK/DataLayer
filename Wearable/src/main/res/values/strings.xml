@@ -18,6 +18,7 @@
     <string name="app_name">Data Layer Sample Wearable App</string>
     <string name="intro">Waiting for data to arrive\u2026</string>
     <string name="data_arrived">Data arrived</string>
+    <string name="missing_data">Missing data</string>
     <string name="capability_2_notification">Capability 2</string>
     <string name="capabilities_1_and_2_notification">Capabilities 1 and 2</string>
     <string name="capabilities_3_and_4_notification">Capabilities 3 and 4</string>
